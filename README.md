@@ -1,4 +1,4 @@
-# Thread and Process Performance Evaluation Project
+# Thread and Process Performance Evaluation
 
 ## Overview
 This project explores the performance of **threads** and **processes** in various scenarios. It evaluates the overheads associated with thread creation, process creation, dynamic memory modifications, and parallel matrix multiplication using **Copy-On-Write (COW)** and other resource management techniques.
